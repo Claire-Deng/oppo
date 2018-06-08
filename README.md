@@ -1,5 +1,7 @@
 # oppo
-该项目是一个仿制OPPO官网首页实例
+该项目是一个仿制OPPO官网首页实例。
+ 
+演示网址：[https://1948712434.github.io/oppo/oppo/index.html](https://1948712434.github.io/oppo/oppo/index.html)
  
 这是一个为了了解页面创建过程和熟练运用这段时间的所学，里面分别用到了jQuery轮播图插件，项目使用gulp构建工具构建开发流程，主要是用gulp-less插件来编译less文件，使用Animate.css和wow.js结合创建页面动画，图标引用了iconfont阿里云图标库,图片加载优化利用echo.js实现图片懒加载。 
 
